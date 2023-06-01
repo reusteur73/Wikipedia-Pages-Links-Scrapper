@@ -1,6 +1,5 @@
-import requests
+import requests, sys, time
 from bs4 import BeautifulSoup
-import sys, time
 
 def save_page_links(links):
     """
