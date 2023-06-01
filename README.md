@@ -22,7 +22,7 @@ You can install the required libraries using pip:
 
 2. Run the script by executing the following command:
 
-`python scraper.py` 
+`python wiki_links.py` 
 
 
 3. The script will start scraping all Wikipedia pages' links. The links will be saved in a file named `all_wiki_links.txt` in the same directory.
