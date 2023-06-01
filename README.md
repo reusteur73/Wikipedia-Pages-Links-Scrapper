@@ -1,6 +1,8 @@
 # Wikipedia-Pages-Links-Scrapper
 A powerful Python script for scraping Wikipedia links.(This script finds an average of 15,000 links per 15 seconds.) It scrapes all available links and is one of the fastest ways to map Wikipedia. The scraped links are saved in a text file.
 
+## Feel free to star this project if you find it useful or helpful. ♥ ♥ ♥ 
+
 ## Prerequisites
 
 Before running the script, make sure you have the following dependencies installed:
